@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/binn2412/newbotbinn
-> cd newbotbinn
+> git clone https://github.com/binn2412/botbinn2
+> cd botbinn2
 > bash install.sh
 > node index.js
 ```
