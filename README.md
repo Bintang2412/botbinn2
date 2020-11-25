@@ -1,4 +1,4 @@
-## NAMA BOT
+## NEW BOT BINN
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-*
+* GO-PAY : 08987273758
